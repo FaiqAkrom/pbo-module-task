@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\bin\Debug\net10.0\PBO_RumahSakit.exe
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\bin\Debug\net10.0\PBO_RumahSakit.deps.json
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\bin\Debug\net10.0\PBO_RumahSakit.runtimeconfig.json
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\bin\Debug\net10.0\PBO_RumahSakit.dll
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\bin\Debug\net10.0\PBO_RumahSakit.pdb
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\PBO_RumahSakit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\PBO_RumahSakit.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\PBO_RumahSakit.AssemblyInfo.cs
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\PBO_RumahSakit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\PBO_RumahSakit.dll
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\refint\PBO_RumahSakit.dll
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\PBO_RumahSakit.pdb
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\PBO_RumahSakit.genruntimeconfig.cache
+C:\Users\user\source\repos\PBO_RumahSakit\PBO_RumahSakit\obj\Debug\net10.0\ref\PBO_RumahSakit.dll
